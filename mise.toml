@@ -1,0 +1,8 @@
+[tools]
+python = "3.12"
+node = "22"
+hurl = "8"
+
+[tasks.setup-hooks]
+description = "Point git at the tracked .githooks folder"
+run = "git config core.hooksPath .githooks"

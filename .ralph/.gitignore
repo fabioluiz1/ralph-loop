@@ -1,0 +1,3 @@
+# per-worktree loop state: source marker, stuck counter, pass prompt, run baseline
+*
+!.gitignore

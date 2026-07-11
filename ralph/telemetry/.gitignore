@@ -1,0 +1,3 @@
+# the telemetry database (SQLite), derived from the logs; machine-local, rebuild anytime
+*
+!.gitignore

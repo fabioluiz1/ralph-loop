@@ -1,0 +1,4 @@
+# per-directory ignores live inside the directories they guard: each machine-local
+# dir ships a committed self-ignoring .gitignore (* + !.gitignore) that scaffolds
+# it empty into every clone and worktree: .worktrees/, .ralph/, ralph/run/,
+# ralph/logs/, ralph/telemetry/

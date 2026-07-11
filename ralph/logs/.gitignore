@@ -1,0 +1,3 @@
+# raw run logs: one subdir per worktree branch, one file per run; outlive the worktrees
+*
+!.gitignore
